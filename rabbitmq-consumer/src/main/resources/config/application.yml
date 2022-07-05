@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: RABBITMQ-CONSUMER-DEMO
+
+  rabbitmq:
+    addresses: 192.168.250.209:5672
+
+server:
+  port: 9098
